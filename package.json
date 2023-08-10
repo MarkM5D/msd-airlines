@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "aos": "^2.3.4",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "react-icons": "^4.10.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
